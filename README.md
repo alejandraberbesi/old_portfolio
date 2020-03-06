@@ -16,4 +16,11 @@ Script to evaluate reviews about movies, classifying them with positive or negat
 There are two aproaches: On "master" branch, a model with Support Vector Machine and on "naive_bayes" branch, a model with a class that returns the result of a voting process between Naive Bayes, Multinomial Naive Bayes and Bernoulli Naive Bayes classifiers.
 
  :octocat: [Repository is here!](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
+ 
+ ### TLAC model
+ 
+ The idea of the project is to classify literary categories through Natural Language Processing. Inputs: texts from inventory books' descriptions (previously extracted from backcover photos).
+ 
+:octocat: [Repository is here!](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
+
 
