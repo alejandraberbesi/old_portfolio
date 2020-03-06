@@ -17,7 +17,7 @@ There are two aproaches: On "master" branch, a model with Support Vector Machine
 
  :octocat: [Repository is here!](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
  
- ### TLAC model
+ ### TLAC model - Python
  
  The idea of the project is to classify literary categories through Natural Language Processing. Inputs: texts from inventory books' descriptions (previously extracted from backcover photos).
  
