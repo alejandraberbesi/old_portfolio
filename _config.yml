@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: <font color="teal"> Hi there! </font>
 
-description: My name is Alejandra Berbesi. I'm a colombian Data Scientist. In this page you can find some of projects im currently working on.
-
+description: My name is Alejandra Berbesi. I'm a colombian Data Scientist. I love interesting machine learning applications and i'm trying to enter the deep learning and AI world. My main programming language for projects is Python. 
 plugins:
   - jemoji
