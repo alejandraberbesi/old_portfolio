@@ -1,6 +1,8 @@
+# Welcome to my Porfolio!
 
+These are my Github Projects. They involve machine learning and deep learning.
 
-# 'The Simpsons' image classification - Python
+##'The Simpsons' image classification - Python
 
 Identifying 42 characters of 'The Simpsons' using a convolutional neural network (CNN) backbone and a fully connected head with a single hidden layer as a classifier. The output is the predicted probability for each of the categories. Originally built in google colab. 
 
@@ -14,7 +16,7 @@ Script that classifies tweets in 13 different emotions.
 
 :pushpin: [Github_Repo](https://github.com/alejandraberbesi/emotions_in_tweets)
 
-### Sentiment analysis (movie reviews) - Python
+## Sentiment analysis (movie reviews) - Python
 
 Script to evaluate reviews about movies, classifying them with positive or negative polarities.
 **Master branch**: a model built with Support Vector Machine.
@@ -22,7 +24,7 @@ Script to evaluate reviews about movies, classifying them with positive or negat
 
 :movie_camera: [Github_Repo](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
  
-### TLAC model - Python
+## TLAC model - Python
  
 The idea is to classify literary categories through Natural Language Processing. Inputs: texts from inventory books' descriptions (previously extracted from backcover photos).
  
