@@ -1,8 +1,8 @@
-#Hey there!
+##Hey there!
 
 ### Sentiment analysis of movie reviews 
 
-```markdown
+
 Based on https://www.kaggle.com/iashreya/moviereviewsdataset
 
 Script to evaluate reviews about movies, classifying them with positive or negative polarities.
@@ -18,16 +18,6 @@ Libraries: Nltk, Sklearn.
 [Link](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
