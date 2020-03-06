@@ -1,4 +1,4 @@
-# ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Welcome to my Porfolio!`
+<font color="red">Welcome to my Porfolio!</font> 
 
 These are my Github Projects. They involve machine learning and deep learning.
 
