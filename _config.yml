@@ -3,9 +3,8 @@ title: <font color="teal"> Hi there! </font>
 description: <p> My name is Alejandra Berbesi. I'm a colombian Data Scientist. 
  I love interesting machine learning applications and i'm trying to enter the deep learning and AI world. 
  My main programming language for projects is Python.</p>
- <p> If you want to know more professional facts about me, add me in <a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/">linkedin</a>!. 
- I hope you like my page...have a great day! </p>
- <span style='font-size:50px;'>&#128578;</span>
+ <p> If you want to know more professional facts about me, add me in <a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/">linkedin</a>.</p> 
+ <p><font color="purple"> I hope you like my page...have a great day! </font></p>
 
 plugins:
   - jemoji
