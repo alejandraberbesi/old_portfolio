@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to my portfolio!
+title: <font color="teal"> Welcome to my portfolio! </font>
 description: My name is Alejandra Berbesi. I'm a colombian Data Scientist. I love online learning and in this page you can find the projects im currently working on.
 plugins:
   - jemoji
