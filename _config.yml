@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: <font color="teal"> Hi there! </font>
 
-description: My name is Alejandra Berbesi. I'm a colombian Data Scientist. I love interesting machine learning applications and i'm trying to enter the deep learning and AI world. My main programming language for projects is Python. If you want to know more professional stuff about me, we can become linkedin friends!. <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+description: My name is Alejandra Berbesi. I'm a colombian Data Scientist. I love interesting machine learning applications and i'm trying to enter the deep learning and AI world. My main programming language for projects is Python. If you want to know more professional stuff about me, add me in <a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/">linkedin</a>!.
+
+description: I hope you like my projects and have a great day!
 
 plugins:
   - jemoji
