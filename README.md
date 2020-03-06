@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 You can use the [editor on GitHub](https://github.com/alejandraberbesi/alejandraberbesi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 ```
 
