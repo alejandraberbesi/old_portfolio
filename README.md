@@ -2,7 +2,7 @@
 
 These are my Github Projects. They involve machine learning and deep learning.
 
-##'The Simpsons' image classification - Python
+## 'The Simpsons' image classification - Python
 
 Identifying 42 characters of 'The Simpsons' using a convolutional neural network (CNN) backbone and a fully connected head with a single hidden layer as a classifier. The output is the predicted probability for each of the categories. Originally built in google colab. 
 
