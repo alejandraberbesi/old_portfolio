@@ -1,21 +1,23 @@
-## Welcome to GitHub Pages  :alien:
+#Hey there!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sentiment analysis of movie reviews 
 
 ```markdown
-Syntax highlighted code block
+Based on https://www.kaggle.com/iashreya/moviereviewsdataset
 
-# Header 1
-## Header 2
-### Header 3
+Script to evaluate reviews about movies, classifying them with positive or negative polarities.
 
-- Bulleted
-- List
+There are two aproaches: On "master" branch, a model with SVM that involves a LabelEncoder and TfidfVectorizer. The inputs words are adjectives with a previous lemmatization process.
 
-1. Numbered
-2. List
+On "naive_bayes" branch, a simple model with a class that returns the result of a voting process between Naive Bayes, Multinomial Naive Bayes and Bernoulli Naive Bayes classifiers. The input words are adjectives.
+
+Libraries: Nltk, Sklearn.
+
+![GitHub Logo](/images/logo.png) 
+
+[Link](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
