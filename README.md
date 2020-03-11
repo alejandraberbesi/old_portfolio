@@ -15,7 +15,7 @@ Identifying 42 characters of 'The Simpsons' using a convolutional neural network
 Script that classifies tweets in 13 different emotions. 
 **Master branch**: a model using a random forest as a classifier. 
 **Neural network branch**: the model is built with a Long Short Term Memory (LSTM) neural network.
-**Libraries**: Pandas, Numpy, SKlearn, Nltk, Tensorflow.keras, Matplotlib.
+**Libraries**: Pandas, Numpy, Sklearn, Nltk, Tensorflow.keras, Matplotlib.
 
 :pushpin: [Github_Repo](https://github.com/alejandraberbesi/emotions_in_tweets)
 
@@ -24,7 +24,7 @@ Script that classifies tweets in 13 different emotions.
 Script to evaluate reviews about movies, classifying them with positive or negative polarities.
 **Master branch**: a model built with Support Vector Machine.
 **Naive_bayes branch**: a model with a class that returns the result of a voting process between Naive Bayes, Multinomial Naive Bayes and Bernoulli Naive Bayes classifiers.
-**Libraries**: Numpy, SKlearn, Nltk.
+**Libraries**: Numpy, Sklearn, Nltk.
 
 :movie_camera: [Github_Repo](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
  
