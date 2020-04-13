@@ -4,7 +4,7 @@ These are my Github Projects. They involve machine learning and deep learning.
 
 ## Apparel image classification - Python
 
-Classification of type and color of apparel for each image of the dataset using a convolutional neural network (CNN). Originally built in google colab. 
+Classification of type and color of clothing for each image of the dataset using a convolutional neural network (CNN). Originally built in google colab. 
 **Library**: Fastai.
 
 :dress: [Github_Repo](https://github.com/alejandraberbesi/apparel_image)
