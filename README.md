@@ -4,7 +4,7 @@ These are my Github Projects. They involve machine learning and deep learning.
 
 ## TLAC model - Python
  
-NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Fastai, Pandas), GCP API (BigQuery), langdetect.
+NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Fastai, Pandas, Langdetect), GCP API (BigQuery).
  
 :books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 
