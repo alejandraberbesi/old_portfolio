@@ -2,6 +2,12 @@
 
 These are my Github Projects. They involve machine learning and deep learning.
 
+## TLAC model - Python
+ 
+NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Fastai, Pandas), GCP API (BigQuery), langdetect.
+ 
+:books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
+
 ## Multi-label apparel images prediction - Python
 
 Identifying type-color combination for 5 types and 6 colors of clothing' images using a convolutional neural network (CNN). Originally built in google colab. 
@@ -34,8 +40,3 @@ Script to evaluate reviews about movies, classifying them with positive or negat
 
 :movie_camera: [Github_Repo](https://github.com/alejandraberbesi/sentiment_analysis_movie_reviews)
  
-## TLAC model - Python
- 
-The idea is to classify literary categories through Natural Language Processing. Inputs: texts from inventory books' descriptions (previously extracted from backcover photos).
- 
-:books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
