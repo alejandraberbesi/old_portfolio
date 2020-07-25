@@ -10,7 +10,7 @@ NLP/transfer learning to classify literary categories of books. Technologies inv
 
 ## Spanish Language model - Python
  
-Download of 122000+ wikipedia spanish articles to create a spanish language model that can be used for transfer learning. Technologies involved: Python (Fastai2), Google colab.
+122000+ wikipedia spanish articles to create a language model (suggest the next word) and can be used for transfer learning. Technologies involved: Python (Fastai2), Google colab.
  
 :notebook: [Github_Repo](https://github.com/alejandraberbesi/es_wiki_lm)
 
