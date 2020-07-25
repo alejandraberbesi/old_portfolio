@@ -10,14 +10,14 @@ NLP/transfer learning to classify literary categories of books. Technologies inv
 :books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 
 
-## Spanish Language model - Python
+## <font color="CADETBLUE">Spanish Language model - Python</font>
  
 122000+ wikipedia spanish articles to create a language model (suggesting the next word) that can be used for transfer learning. Technologies involved: Python (Fastai2), Google colab.
  
 :book: [Github_Repo](https://github.com/alejandraberbesi/es_wiki_lm)
 
 
-## Multi-label apparel images prediction - Python
+## <font color="CADETBLUE">Multi-label apparel images prediction - Python </font>
 
 Identifying type-color combination for 5 types and 6 colors of clothing' images using a convolutional neural network (CNN). Originally built in google colab. 
 **Library**: Fastai.
@@ -25,7 +25,7 @@ Identifying type-color combination for 5 types and 6 colors of clothing' images 
 :kimono: [Github_Repo](https://github.com/alejandraberbesi/apparel_image)
 
 
-## 'The Simpsons' image classification - Python
+## <font color="CADETBLUE">'The Simpsons' image classification - Python </font>
 
 Identifying 42 characters of 'The Simpsons' using a convolutional neural network (CNN) backbone and a fully connected head with a single hidden layer as a classifier. The output is the predicted probability for each of the categories. Originally built in google colab. 
 **Library**: Fastai.
@@ -33,7 +33,7 @@ Identifying 42 characters of 'The Simpsons' using a convolutional neural network
 :tv: [Github_Repo](https://github.com/alejandraberbesi/image_classification_FA)
  
 
-## Emotions in tweets - Python 
+## <font color="CADETBLUE">Emotions in tweets - Python </font>
 
 Script that classifies tweets in 13 different emotions. 
 **Master branch**: a model using a random forest as a classifier. 
@@ -43,7 +43,7 @@ Script that classifies tweets in 13 different emotions.
 :baby_chick: [Github_Repo](https://github.com/alejandraberbesi/emotions_in_tweets)
 
 
-## Sentiment analysis (movie reviews) - Python
+## <font color="CADETBLUE">Sentiment analysis (movie reviews) - Python </font>
 
 Script to evaluate reviews about movies, classifying them with positive or negative polarities.
 **Master branch**: a model built with Support Vector Machine.
