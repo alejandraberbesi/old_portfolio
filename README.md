@@ -1,9 +1,9 @@
-# <font color="teal">Welcome to my Portfolio</font> 
+# Welcome to my Portfolio
 
 These are my Github Projects. They involve machine learning and deep learning.
 
 
-## 'Tu Libro A Ciegas' model - Python
+## <font color="CADETBLUE">'Tu Libro A Ciegas' model - Python</font>
  
 NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Fastai, Pandas, Langdetect), GCP API (BigQuery).
  
