@@ -5,7 +5,7 @@ These are my Github Projects. They involve machine learning and deep learning.
 
 ## <font color="CADETBLUE">'Tu Libro A Ciegas' model - Python</font>
  
-NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Fastai, Pandas, Langdetect), GCP API (BigQuery).
+NLP/transfer learning to classify literary categories of books. Technologies involved: Python, Google Cloud Platform API (BigQuery).
  
 :books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 
