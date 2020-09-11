@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-These are my Github Projects. They involve machine learning and deep learning.
+These are some of my machine learning/deep learning projects:
 
 
 ## <font color="CADETBLUE">'Tu Libro A Ciegas' model - Python</font>
