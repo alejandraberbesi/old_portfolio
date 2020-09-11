@@ -4,7 +4,8 @@ description: <p><b> My name is Alejandra Berbesi.</b> </p>
   <p><b>I am a Data Scientist.</b> </p>
  <p><b>I enjoy using machine learning and deep learning to create predictive models.</b> </p>
  <p><b>My main programming language is Python.</b></p>
- <p><b><font color="CADETBLUE"> If you want to know more about me or contact me to participate in open source or tech for good, please add me in <a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/">linkedin</a>.</font></b></p>
+ <p><b><font color="CADETBLUE"> If you want to know more about me or contact me to participate in open source/tech for good, 
+ add me in <a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/"> <u>linkedin </u></a>.</font></b></p>
 
 plugins:
   - jemoji
