@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-These are some of my machine learning/deep learning projects:
+These are some of my projects:
 
 
 ## <font color="CADETBLUE">'Tu Libro A Ciegas' model - Python</font>
