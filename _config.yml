@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
-title: <font color="CADETBLUE"> Hi! </font>
-description: <p><b> My name is Alejandra Berbesi.</b> </p>
-  <p><b>I am a Data Scientist.</b> </p>
- <p><b>I enjoy using machine learning and deep learning to create predictive models.</b> </p>
+title: <font color="CADETBLUE"> I am Alejandra Berbesi </font>
+description: <p><b>I enjoy using machine learning and deep learning to create predictive models.</b></p>
  <p><b>My main programming language is Python.</b></p>
- <p><b><font color="CADETBLUE">Contact me to participate in open source/tech for good</font></b> &#x2193;</p>
  <p><b><a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/" style="color:black">Add me in linkedin</a></b></p>
 
 plugins:
