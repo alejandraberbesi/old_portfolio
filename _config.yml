@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
-title: <p><font color="fuchsia"> Hi!</font></p>
-      <p><font color="fuchsia">I'm Alejandra Berbesi </font></p>
-description: <p><b><font color="fuchsia">I'm Alejandra Berbesi </font></p></b>
+title: <font color="fuchsia"> Hi!</font>
+description: <p><b><span style='font-size:100px;'><font color="fuchsia">I'm Alejandra Berbesi </font></span></p></b>
  <p><b>I enjoy creating predictive models &#128302;</b></p>
  <p><b>I &#128156; ML and i'm learning about DL</b></p>
- <p><b> Main PL -->Python :snake:</b></p>
+ <p><b> Main PL -->Python &#128013;</b></p>
  <p><a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/" style="color:fuchsia">Add me in linkedin</a></p>
 
 plugins:
