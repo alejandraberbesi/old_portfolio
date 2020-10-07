@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: <font color="CADETBLUE"> I am Alejandra Berbesi </font>
+title: <font color="FUCHSIA"> Hi! I'm Alejandra </font>
 description: <p><b>I enjoy using machine learning and deep learning to create predictive models.</b></p>
  <p><b>My main programming language is Python.</b></p>
- <p><b><a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/" style="color:black">Add me in linkedin</a></b></p>
+ <p><b><a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/" style="color:FUCHSIA">Add me in linkedin</a></b></p>
 
 plugins:
   - jemoji
