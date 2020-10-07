@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: <font color="fuchsia"> Hi!</font>
+title: <font color="fuchsia">I'm Alejandra Berbesi </font>
 description: <p><b><font color="fuchsia">I'm Alejandra Berbesi </font></p></b>
  <p><b>I enjoy creating predictive models &#128302;</b></p>
  <p><b>I &#128156; ML and i'm learning about DL</b></p>
@@ -8,3 +9,4 @@ description: <p><b><font color="fuchsia">I'm Alejandra Berbesi </font></p></b>
 
 plugins:
   - jemoji
+<span style='font-size:100px;'>&#128302;</span>
