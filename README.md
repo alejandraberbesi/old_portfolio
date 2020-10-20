@@ -5,7 +5,7 @@ These are some of my projects:
 
 ## <font color="CADETBLUE">'Tu Libro A Ciegas' model - Python</font>
  
-NLP/transfer learning to classify literary categories of books. Technologies involved: Python, Google Cloud Platform API (BigQuery).
+NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Transformers, Pytorch, Pandas, Scikit-learn, NumPy), Google BigQuery.
  
 :books: [Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 
