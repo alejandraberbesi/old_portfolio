@@ -42,7 +42,7 @@ Script that classifies tweets in 13 different emotions.
 'Neural network' branch: the model is built with a Long Short Term Memory (LSTM) neural network.
 Technologies involved: Python (Pandas, Numpy, Scikit-learn, Nltk, tensorflow-keras, Matplotlib).
 
-:baby_chick: [Github_Repo](https://github.com/alejandraberbesi/emotions_in_tweets)
+:speech_balloon: [Github_Repo](https://github.com/alejandraberbesi/emotions_in_tweets)
 
 
 ## <font color="CADETBLUE">Sentiment analysis (movie reviews)</font>
