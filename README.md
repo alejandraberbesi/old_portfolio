@@ -2,8 +2,8 @@
 
 These are some of my projects:
 
-## <font color="CADETBLUE">Scratch Game (in spanish) </font>
-Basic game designed for kids in Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage.
+## <font color="CADETBLUE"> Scratch Game </font>
+Basic game designed for kids (in Spanish) using Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage.
 
 :smiley_cat: [Link to Game](https://scratch.mit.edu/projects/515213751/)
 
