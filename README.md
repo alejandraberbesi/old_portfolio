@@ -37,6 +37,11 @@ Column 2
 </tr>
 </table>
 
+Column 1 Header | Column 2 Header 
+--------------- | --------------- 
+Row 1 Column 1 | Row 1 Column 2
+
+
 ## <font color="CADETBLUE"> Scratch Game </font>
 Designed for kids (in Spanish) using Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage.
 
