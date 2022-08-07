@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
 title: <font color="MEDIUMORCHID"> Hi!&#127797;</font>
 description: <p style="font-size:20px"><b><font color="MEDIUMORCHID">I'm Alejandra Berbesi</font></b></p>
@@ -6,4 +6,4 @@ description: <p style="font-size:20px"><b><font color="MEDIUMORCHID">I'm Alejand
  <p><b><a href="https://www.linkedin.com/in/alejandra-berbesi-becerra/" style="color:MEDIUMORCHID">Add me in linkedin</a></b></p>
 
 plugins:
-  - jemoji
+- jekyll-remote-theme
