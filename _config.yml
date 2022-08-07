@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: mmistakes/mm-github-pages-starter
+theme: mmistakes/mm-github-pages-starter
 
 title: <font color="MEDIUMORCHID"> Hi!&#127797;</font>
 description: <p style="font-size:20px"><b><font color="MEDIUMORCHID">I'm Alejandra Berbesi</font></b></p>
