@@ -1,8 +1,8 @@
 
 Games Basics | Details
 --------------- | --------------- 
-<font color="CADETBLUE">Space Invaders in PyGame</font> | 
-<font color="CADETBLUE">Scratch Game</font> | Designed for kids (in Spanish) using Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage. :smiley_cat: [Link to Game](https://scratch.mit.edu/projects/515213751/)
+<font color="CADETBLUE">Space Invaders</font> | Game similar to space invaders, created with PyGame (Python) :space_invader: [Github Repo](https://github.com/alejandraberbesi/PyGame_Tutorial)
+<font color="CADETBLUE">Scratch Game</font> | The goal is to help a diver clean the ocean, picking up plastic garbage :smiley_cat: [Link to Game](https://scratch.mit.edu/projects/515213751/)
 
 
 Machine Learning | Details
