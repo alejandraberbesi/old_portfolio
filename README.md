@@ -1,5 +1,3 @@
-# These are some of my projects:
-
 
 Games Basics | Details
 --------------- | --------------- 
