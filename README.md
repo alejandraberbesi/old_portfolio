@@ -1,48 +1,20 @@
 # These are some of my projects:
 
-<table>
-<tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<td>
- 
-</td>
-<td>
-  
-</td>
-</tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
-</table>
 
-Column 1 Header | Column 2 Header 
+Column 1 Header | <font color="CADETBLUE"> Scratch Game </font>
 --------------- | --------------- 
-Row 1 Column 1 | Row 1 Column 2
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> | Row 1 Column 2
+
+
+
+
+
 
 
 ## <font color="CADETBLUE"> Scratch Game </font>
+
+
+
 Designed for kids (in Spanish) using Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage.
 
 :smiley_cat: [Link to Game](https://scratch.mit.edu/projects/515213751/)
