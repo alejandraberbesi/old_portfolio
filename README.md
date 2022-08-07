@@ -1,3 +1,4 @@
+# These are some of my projects:
 
 <table>
 <tr>
@@ -35,12 +36,6 @@ Column 2
 </td>
 </tr>
 </table>
-
-
-
-
-# These are some of my projects:
-
 
 ## <font color="CADETBLUE"> Scratch Game </font>
 Designed for kids (in Spanish) using Scratch (a block-based visual programming language). The goal is to help a diver clean the ocean, picking up plastic garbage.
