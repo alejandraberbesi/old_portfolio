@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: https://github.com/pages-themes/minimal
 
 # title: <font color="MEDIUMORCHID"> Hi!&#127797;</font>
 # description: <p style="font-size:20px"><b><font color="MEDIUMORCHID">I'm Alejandra Berbesi</font></b></p>
