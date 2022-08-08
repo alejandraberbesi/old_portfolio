@@ -2,7 +2,7 @@
 <b><font color="MEDIUMORCHID"> Games </font></b>| <b><font color="MEDIUMORCHID">Details </font></b>| <b><font color="MEDIUMORCHID">Links </font></b>
 --------------- | --------------- | --------------- 
 <b> Space Invaders </b>| Game similar to space invaders, created with PyGame (Python) |:space_invader:[Github_Repo](https://github.com/alejandraberbesi/PyGame_Tutorial)
-<b> Scratch Game </b> | The goal is to help a diver clean the ocean, picking up plastic garbage (in Spanish)| :cat2: [Link to Game](https://scratch.mit.edu/projects/515213751/)
+<b> Scratch Game </b> | The goal is to help a diver clean the ocean, picking up plastic garbage (in Spanish)| :cat2:[ Link to Game ](https://scratch.mit.edu/projects/515213751/)
 
 
 <b><font color="MEDIUMORCHID"> Machine Learning </font></b>| <b><font color="MEDIUMORCHID">Details</font></b> | <b><font color="MEDIUMORCHID">Links </font></b>
