@@ -1,11 +1,11 @@
 
-<b><font color="MEDIUMORCHID"> Games | Details | Links </font></b>
+<b><font color="MEDIUMORCHID"> Games </font></b>| <b><font color="MEDIUMORCHID">Details </font></b>| <b><font color="MEDIUMORCHID">Links </font></b>
 --------------- | --------------- | --------------- 
 <b> Space Invaders </b>| Game similar to space invaders, created with PyGame (Python) |:space_invader:[Github_Repo](https://github.com/alejandraberbesi/PyGame_Tutorial)
 <b> Scratch Game </b> | The goal is to help a diver clean the ocean, picking up plastic garbage (in Spanish)| :cat2: [Link to Game](https://scratch.mit.edu/projects/515213751/)
 
 
-<b><font color="MEDIUMORCHID"> Machine Learning </font></b>| Details | Links </font></b>
+<b><font color="MEDIUMORCHID"> Machine Learning </font></b>| <b><font color="MEDIUMORCHID">Details</font></b> | <b><font color="MEDIUMORCHID">Links </font></b>
 --------------- | --------------- | --------------- 
 <b> 'Tu Libro A Ciegas' model </b> | NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Transformers, Pytorch), Google BigQuery | :orange_book:[Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 <b> Spanish Language model </b> | 122000+ wikipedia spanish articles to create a language model (next word prediction) that could be later used for transfer learning. Technologies involved: Python (Fastai2) | :pencil2: [Github_Repo](https://github.com/alejandraberbesi/es_wiki_lm)
