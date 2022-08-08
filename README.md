@@ -1,11 +1,11 @@
 
-<b><font color="CADETBLUE"> Games </font></b>| Details | Links
+<b><font color="MEDIUMORCHID"> Games </font></b>| Details | Links
 --------------- | --------------- | --------------- 
 <b><font color="CADETBLUE">Space Invaders</font></b>| Game similar to space invaders, created with PyGame (Python) |:space_invader:[Github_Repo](https://github.com/alejandraberbesi/PyGame_Tutorial)
 <b><font color="CADETBLUE">Scratch Game</font></b> | The goal is to help a diver clean the ocean, picking up plastic garbage (in Spanish)| :cat2: [Link to Game](https://scratch.mit.edu/projects/515213751/)
 
 
-<b><font color="CADETBLUE"> Machine Learning </font></b>| Details | Links
+<b><font color="MEDIUMORCHID"> Machine Learning </font></b>| Details | Links
 --------------- | --------------- | --------------- 
 <b><font color="CADETBLUE">'Tu Libro A Ciegas' model </font></b> | NLP/transfer learning to classify literary categories of books. Technologies involved: Python (Transformers, Pytorch), Google BigQuery | :orange_book:[Github_Repo](https://github.com/Tu-Libro-a-Ciegas/TLAC_model)
 <b><font color="CADETBLUE">Spanish Language model </font></b> | 122000+ wikipedia spanish articles to create a language model (next word prediction) that could be later used for transfer learning. Technologies involved: Python (Fastai2) | :pencil2: [Github_Repo](https://github.com/alejandraberbesi/es_wiki_lm)
